@@ -1,8 +1,6 @@
 Hola, soy <strong>Ronny Guillen</strong>
 
-Actualmente estoy aprendiendo HTML, CSS, JavaScript, Git y 😴😴😴 en fin para resumir el cuento y no hacerles una novela, puedo comentar que estoy estudiando a full todo lo referente al desarrollo Frontend.
-
-Aunque me interesan también Python, Java y C; Hay muchas cosas por aprender, pero el universo no se creo en una semana, así que importa es la consistencia.
+Aprendiendo Python, JavaScript y Bases de Datos
 
 
 <h2> Aportes </h2>
